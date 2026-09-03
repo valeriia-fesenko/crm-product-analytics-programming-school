@@ -108,4 +108,5 @@ Python, Pandas, PyArrow / Parquet, Power BI, Power Query, DAX, Matplotlib, SciPy
 ## 📂 Project Files
 * [Power BI Dashboard (.pbix)](Final%20Project%20Analitycs.pbix)
 * [Calls — Data Cleaning (.ipynb)](Calls.ipynb)
+* [Contacts — Data Cleaning (.ipynb)](Contacts.ipynb)
   
