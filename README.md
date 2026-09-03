@@ -92,7 +92,6 @@ Revenue breaks down as: Buyers × CLTV → driven by Conversion Rate (4.52%), Un
 
 * **H1 — Increase Conversion Rate (+10% MDE):** Data shows a 30-min callback SLA and 3–5 touchpoints drive the most buyers. Proposed test: current process vs. new SLA protocol, 2-week duration.
 * **H2 — Reduce CAC by 10%:** 64% of leads are non-target (D/E quality); Retargeting is underutilized despite higher conversion potential. Proposed test: current vs. reallocated ad budget (Wide → Retargeting/Lookalike), 2-week duration.
-* **H3 — Increase retention by 10%:** Months 1–3 show the highest dropout and the highest unrealized value. Proposed test: standard curriculum vs. enhanced onboarding (personal mentor, certificates, gamification), 2–3 month duration.
 
 Sample sizes calculated using the Evan Miller formula: `n = 16 × p × (1−p) / Δ²`
 
