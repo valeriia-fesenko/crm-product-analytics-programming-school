@@ -1,6 +1,6 @@
 # CRM & Product Analytics for an Online Programming School | Python | Power BI
 
-An end-to-end analytics capstone project for an online programming school, covering the full pipeline from raw CRM data to an interactive Power BI dashboard and a full product-analytics deliverable: unit economics, a metrics tree, and data-driven growth hypotheses with A/B test designs.
+An end-to-end analytics capstone project for an online programming school, covering the full pipeline from raw CRM data to an interactive Power BI dashboard and a full product analytics deliverable: unit economics, a metrics tree, and data-driven growth hypotheses with A/B test designs.
 
 ## 🎯 Business Goal
 
@@ -111,4 +111,5 @@ Python, Pandas, PyArrow / Parquet, Power BI, Power Query, DAX, Matplotlib, SciPy
 * [Contacts — Data Cleaning (.ipynb)](Contacts.ipynb)
 * [Deals — Data Cleaning (.ipynb)](Deals.ipynb)
 * [Spend — Data Cleaning (.ipynb)](Spend.ipynb)
+* [Product Analytics — Data Cleaning (.ipynb)](Product_an.ipynb)
   
